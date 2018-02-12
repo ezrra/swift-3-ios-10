@@ -1,4 +1,0 @@
-Attribute Inspector
-
-Mode
-Alpha

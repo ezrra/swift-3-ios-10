@@ -35,7 +35,6 @@ class ViewController: UIViewController {
         reloadView(textFieldVal: textFieldVal, selectedIndex: selectedIndex)
     }
     
-    
     func reloadView(textFieldVal : Double, selectedIndex: Int) {
         var convertedValue = 0.0
         var endValue = ""
